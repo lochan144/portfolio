@@ -1,8 +1,8 @@
-# Portfolio
+# Portfolio!
 
 Welcome to my portfolio! This project showcases my skills and projects as a Full Stack Developer and UI/UX Designer. Explore the features, technologies used, and how to get started below. 🚀
 
-## Features
+## Features!
 
 - Responsive design for all devices 📱💻
 - Interactive animations and transitions ✨
@@ -10,14 +10,14 @@ Welcome to my portfolio! This project showcases my skills and projects as a Full
 - User authentication and authorization 🔐
 - Seamless navigation with smooth scrolling 🧭
 
-## Technologies Used
+## Technologies Used!
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express, MongoDB
 - **Design**: Figma, Adobe XD
 - **Tools**: Git, Docker, AWS
 
-## Getting Started
+## Getting Started!
 
 To get a local copy up and running, follow these simple steps:
 
@@ -46,4 +46,4 @@ To get a local copy up and running, follow these simple steps:
    http://localhost:3000
    ```
 
-Enjoy exploring the portfolio! 🌟
+Enjoy exploring the portfolio!🌟
